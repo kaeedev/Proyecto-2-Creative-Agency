@@ -10,7 +10,7 @@ El objetivo de este proyecto es aplicar todo lo aprendido en HTML y CSS utilizan
 
 ## 👁️ Vista previa del proyecto
 
-<img src="capture/captura1.png" width=1200>
+<img src="capture/captura2.png" width=1200>
 
 
 ## 🛠️ Estructura del Proyecto
