@@ -30,8 +30,7 @@ Un archivo **index.html** con toda la estructura html del header
 
 Podrás usar la página pinchando en el siguiente enlace gracias a Github Pages:
 
-https://kaeedev.github.io/Proyecto-1-Business-Agency/
-
+https://kaeedev.github.io/Proyecto-2-Creative-Agency/
 
 ## 🛠️ Instalación y Ejecución
 
@@ -81,7 +80,7 @@ index.html: The main file containing the HTML structure of the header.
 
 You can explore the page at the following link, thanks to GitHub Pages:
 
-Visit Project (Add the link here)
+https://kaeedev.github.io/Proyecto-2-Creative-Agency/
 
 ## 🛠️ Installation and Execution
 
