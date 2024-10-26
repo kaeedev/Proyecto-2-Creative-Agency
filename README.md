@@ -36,7 +36,7 @@ https://kaeedev.github.io/Proyecto-2-Creative-Agency/
 
 1. Clona este repositorio:
    ```bash
-   https://github.com/kaeedev/Projects-Django.git
+     https://github.com/kaeedev/Proyecto-2-Creative-Agency.git
 
 2. No requiere de instalación. Con la extensión live server o similares de VSCODE podrás ver el proyecto de manera local
 
@@ -86,7 +86,7 @@ https://kaeedev.github.io/Proyecto-2-Creative-Agency/
 
 - Clone this repository:
   ```bash
-  git clone https://github.com/kaeedev/Projects-Django.git
+  https://github.com/kaeedev/Proyecto-2-Creative-Agency.git
   
 - No installation is required. You can use the Live Server extension or similar in VS Code to view the project locally.
   
