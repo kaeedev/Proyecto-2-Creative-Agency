@@ -1,6 +1,6 @@
 ## ESP:
 
-# Creative Agency 🧑‍🏫👩‍🏫
+# Creative Agency (No responsive) 🧑‍🏫👩‍🏫
 
 Maquetación de un header para una agencia diseños de páginas web
 
@@ -52,7 +52,7 @@ Si tienes alguna duda o quieres utilizar algún recurso de este proyecto, por fa
 ---
 ## ENG
 
-# Creative Agency 🧑‍🏫👩‍🏫
+# Creative Agency (No responsive) 🧑‍🏫👩‍🏫
 
 Layout of a Header for a Web Design Agency
 
